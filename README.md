@@ -1,7 +1,7 @@
-<h1 align="center">Olá 👩🏻‍💻 <br> Me chamo Tong Zhou e sou formada de Ciência da Computação pela Universidade de Brasília</h1>
+<h1 align="center">Olá! <br> Me chamo Tong Zhou e sou formada em Ciência da Computação pela Universidade de Brasília</h1>
 
 - 🏢 Perticipei de no projeto Programação Competitiva.
-- 🔥 Meu foco atual é me tornar uma **Banco de Dados**.
+- 🔥 Meu foco atual é em **Banco de Dados**, área na qual fiz o meu TCC.
 - 🌱 Atualmente estudando **Processamento de Linguagem Natural**.
 
 ## 🛠 Recursos que utilizo
