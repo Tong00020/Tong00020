@@ -39,9 +39,9 @@
 - [Uma Iniciativa para Aumentar a Participação Feminina nas Competições de Programação: um Relato de Experiência.](https://sol.sbc.org.br/index.php/wit/article/view/15858)
 
 
-## <img src="https://user-images.githubusercontent.com/73655019/224190001-f03e72c5-6204-4bcf-9c49-d1cb4ae8a880.png" height="10" width="10"> Contato
+## <img src="https://user-images.githubusercontent.com/73655019/224190001-f03e72c5-6204-4bcf-9c49-d1cb4ae8a880.png" height="20" width="20"> Contato
 
 <div> 
   <a href="https://www.linkedin.com/in/tong-zhou-5b3941149/" target="_blank"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
-  <a href = "mailto:tongzhou2000@gmail.com?subject=[GitHub]%20Source%20Han%20Sans)"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
+  <a href = "[Dr. Ken Lunde](mailto:lunde@adobe.com?subject=[GitHub]%20Source%20Han%20Sans)"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
 </div>
